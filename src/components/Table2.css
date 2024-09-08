@@ -1,0 +1,63 @@
+.container{
+
+background-color:cornflowerblue;
+width : 50%;
+padding:20px;
+
+
+
+}
+
+.firstChild{
+
+display:flex;
+flex-direction: row;
+justify-content: space-around;background-color: brown;
+font-weight: bold;
+border-bottom: 2px solid black;
+
+}
+
+.secondChild{
+
+display:flex;
+justify-content: space-between;
+background-color: beige;
+
+
+
+}
+
+.secondChild:hover{
+
+background-color: pink;
+cursor: pointer;
+
+}
+
+.thirdChild{
+display:flex;
+justify-content: space-between;
+
+}
+
+.fourthChild{
+
+    display:flex;
+    justify-content: space-between;
+    background-color: beige;
+
+
+
+}
+
+.even{
+
+    width : 33%;
+}
+
+.even2{
+
+
+    width : 34%;
+}

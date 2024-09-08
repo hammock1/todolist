@@ -1,0 +1,39 @@
+.container{
+
+    background-color: rgb(100, 151, 34);
+    padding: 10px;
+    width:50%;
+    
+
+
+}
+
+.header{
+
+    display:flex;
+    flex-direction:row;
+  /* gap:10px; */
+  justify-content: space-between;
+  border-bottom : 2px solid black;
+  background-color: red;
+
+
+}
+
+.firstRow{
+display: flex;
+flex-direction:row;
+border-bottom: 1px solid black;
+justify-content: space-between;
+background-color: orange;
+
+}
+
+.even{
+
+    width: 35%;
+}
+
+.even2{
+    width:30%;
+}
