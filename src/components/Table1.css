@@ -20,14 +20,14 @@
 
 }
 
-.firstRow{
+/* .firstRow{
 display: flex;
 flex-direction:row;
 border-bottom: 1px solid black;
 justify-content: space-between;
 background-color: orange;
 
-}
+} */
 
 .even{
 

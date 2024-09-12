@@ -1,0 +1,8 @@
+@media (max-width: 560px) {
+    img {
+    /* display: none; */
+    height: 30%;
+    width: 100%;
+    background-color: blue;
+    }
+    }

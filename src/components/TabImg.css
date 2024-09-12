@@ -1,0 +1,54 @@
+.contain {
+
+    background-color: beige;
+    width:80%;
+    padding:20px;
+
+
+}
+
+.head{
+display: flex;
+justify-content: space-between;
+background-color: olivedrab;
+
+
+}
+
+.firstR{
+
+display:flex;
+justify-content: space-between;
+background-color: blueviolet;
+
+
+}
+
+.secondR{
+display:flex;
+justify-content: space-between;
+background-color: darkgoldenrod;
+
+}
+.thirdR{
+
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+}
+
+.even{
+
+width : 33%;
+
+}
+
+.odd{
+    width : 34%;
+   
+}
+
+.box{
+
+    border : 1px solid black;
+}
